@@ -1,4 +1,4 @@
-# library_24h
+# Library_24h
 ## By Shy
 在固定时间点（e.g.,每天20:00）预约图书馆24h自习室座位
 
